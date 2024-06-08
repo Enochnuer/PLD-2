@@ -6,3 +6,7 @@ Veggies: Carrot
 Location: Kumasi
 Fruits: Mango
 Veggies: Carrot
+# Charles
+Location: Accra
+Fruits: Mango
+Veggies: Carrot
